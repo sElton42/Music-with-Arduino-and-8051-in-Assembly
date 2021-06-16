@@ -4,4 +4,4 @@ Trabalho realizado para a disciplina de Microprocessadores.
 Consiste em programar microcontroladores em Assembly para codificar e temporizar as notas de uma música.
 
 Esquemático do Circuito com 8051:
-[<img src="/8051circuit.png"]
+[<img src="./8051circuit.png"]
