@@ -7,4 +7,4 @@ Esquemático do Circuito com 8051:
 <img src="./8051circuit.png"/>
 
 Vídeo mostrando Funcionamento:
-
+https://www.youtube.com/watch?v=YLzT9UFdLBE
