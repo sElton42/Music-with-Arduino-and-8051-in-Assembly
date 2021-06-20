@@ -8,3 +8,6 @@ Esquemático do Circuito com 8051:
 
 Vídeo mostrando Funcionamento:
 https://www.youtube.com/watch?v=YLzT9UFdLBE
+
+Esquemático do Circuito com Arduino:
+<img src="./arduinoCircuit.png"/>
